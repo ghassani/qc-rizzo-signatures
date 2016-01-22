@@ -1,5 +1,5 @@
 # qc-rizzo-signatures
-Rizzo signatures from un-stripped and older versions of various Qualcomm SoC binaries.
+Rizzo signatures from un-stripped and older versions of various QC SoC binaries.
 
 You need IDA and the Rizzo plugin to use these. 
 
